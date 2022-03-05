@@ -1,0 +1,24 @@
+{
+  "name": "intercept-nodejs-native-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afornagieri/intercept-nodejs-native-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afornagieri/intercept-nodejs-native-functions/issues"
+  },
+  "homepage": "https://github.com/afornagieri/intercept-nodejs-native-functions#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

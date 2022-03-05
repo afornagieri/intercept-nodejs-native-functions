@@ -1,0 +1,5 @@
+class CryptoHelper {
+  constructor({ cryptoKey }) {
+    
+  }
+}
